@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Random Joke | Joke a Whenever</title>
+    <meta name="robots" content="noindex">
+    <style>
+        body { font-family: system-ui, sans-serif; display: flex; justify-content: center; align-items: center; height: 100vh; margin: 0; background: #f5f5f5; }
+        .loader { text-align: center; }
+        .spinner { font-size: 3rem; animation: spin 1s infinite; }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+    <div class="loader">
+        <div class="spinner">🎲</div>
+        <p>Finding a random joke...</p>
+    </div>
+    <script>
+        fetch('/jokes-index.json')
+            .then(r => r.json())
+            .then(jokes => {
+                const random = jokes[Math.floor(Math.random() * jokes.length)];
+                window.location.href = '/' + random.url;
+            })
+            .catch(() => window.location.href = '/');
+    </script>
+</body>
+</html>

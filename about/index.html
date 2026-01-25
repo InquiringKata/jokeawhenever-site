@@ -1,0 +1,74 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Us | Joke a Whenever</title>
+    <meta name="description" content="About Us - Joke a Whenever">
+    <link rel="stylesheet" href="/css/main.css">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&family=Outfit:wght@600;700;800&display=swap" rel="stylesheet">
+</head>
+<body>
+    <header class="site-header">
+        <div class="container">
+            <div class="header-inner">
+                <a href="/" class="logo">
+                    <span class="logo-icon">😂</span>
+                    <span class="logo-text">Joke a Whenever</span>
+                </a>
+                <nav class="main-nav">
+                    <ul>
+                        <li><a href="/">Home</a></li>
+                        <li><a href="/categories/">Categories</a></li>
+                        <li><a href="/random/">Random</a></li>
+                        <li><a href="/about/">About</a></li>
+                    </ul>
+                </nav>
+                <button class="theme-toggle" id="theme-toggle"><span id="theme-icon">🌙</span></button>
+            </div>
+        </div>
+    </header>
+    <main class="site-main">
+        <div class="container">
+            <div class="content-container">
+                <article class="content-page">
+                    <h1>About Joke a Whenever</h1>
+<strong>Welcome to the digital archive of a 90s legend.</strong>
+<p>Joke a Whenever has been kicking around since the dial-up days of the 1990s—back when "You've Got Mail" was exciting and not just a notification you ignored.</p>
+<p>It started as a spin-off of those classic "Joke a Day" and "Joke a Week" mailing lists that clogged up inboxes long before spam filters were any good. For years, we ran as a daily newsletter, delivering a dose of humor right between your forwarded chain emails and invitations to join a webring.</p>
+<p>Now, we've taken that massive archive of hilarity and dumped it all here, searchable and scrollable, so you don't have to wait for an email to get a laugh.</p>
+<h2>Why? Because life is serious enough.</h2>
+<p>I love a good laugh. I hope you do too. Whether you're here to find an icebreaker for a meeting that definitely could have been an email, or you just need to cleanse your palate after reading the news, you're in the right place.</p>
+<h2>The Collection</h2>
+<p>We've got thousands of jokes covering everything from puns that will make you groan to dad jokes that will make your kids roll their eyes so hard they see their own brains. It's clean, it's funny (mostly), and it's free.</p>
+<em>So go ahead, browse around. Like it's 1999.</em>
+                </article>
+            </div>
+        </div>
+    </main>
+    <footer class="site-footer">
+        <div class="container">
+            <div class="footer-bottom">
+                <p>&copy; 2026 Joke a Whenever. All rights reserved.</p>
+            </div>
+        </div>
+    </footer>
+    <script>
+        const toggle = document.getElementById('theme-toggle');
+        const themeIcon = document.getElementById('theme-icon');
+        const savedTheme = localStorage.getItem('theme') || 
+            (window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light');
+        document.documentElement.setAttribute('data-theme', savedTheme);
+        themeIcon.textContent = savedTheme === 'dark' ? '☀️' : '🌙';
+        toggle.addEventListener('click', () => {
+            const current = document.documentElement.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('theme', next);
+            themeIcon.textContent = next === 'dark' ? '☀️' : '🌙';
+        });
+    </script>
+</body>
+</html>
