@@ -6,12 +6,22 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/farm/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/misunderstanding/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/pirates/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/chuck-norris/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -86,6 +96,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/lawyers/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/riddles/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -111,6 +126,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/professional/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/parody/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -121,12 +141,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/pirate/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/nationality/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/comparisons/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -142,6 +172,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/insult/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/comparative/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -182,6 +222,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/technology/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/topical-humor/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -241,6 +286,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/blonde-joke/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/pop-culture/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -281,12 +331,22 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/medical-humor/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/husband-wife/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/irish-jokes/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -371,6 +431,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/nationalities/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/narrative/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -387,6 +452,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/comedy/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/sport/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -436,6 +506,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/food-drink/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/miscellaneous/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -456,12 +531,27 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anecdote/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/politics/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/educational/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/hunting/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/law-enforcement/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -516,7 +606,17 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/stories/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/winter/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -537,6 +637,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/outdoors/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -592,6 +697,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/work/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -721,6 +831,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/everyday-life/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/crime/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -756,6 +871,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/children/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/legal/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -776,6 +896,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/flirty/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -787,6 +912,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/kids/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/bar-jokes/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -807,6 +942,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/comebacks/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/engineering/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
@@ -846,6 +986,11 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/insults/</loc>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/fantasy/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
@@ -876,6 +1021,16 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/farm/cow-vs-bike.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/misunderstanding/helping-the-floods.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/misunderstanding/police-questioning.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -896,7 +1051,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/chuck-norris/the-fourth-wise-man.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/personal/marching-band-and-accident.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/music/sleepy-jean.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -936,6 +1101,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/music/mozart-and-chickens.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/music/chickens-favorite-composer.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -971,12 +1141,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/music/skrillex-phase.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/music/the-prevention-vs-the-cure.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/music/french-rap-group.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/music/rhymes-with-snoop.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -997,6 +1177,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/music/nickelback-songs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/music/davy-jones-believer.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1041,6 +1226,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/music/ginger-baker-coffee.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/music/coldplay-inspiration.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1056,12 +1246,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/music/when-the-drumming-stops.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/music/beethovens-favorite-food.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/music/seal-clubbing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/music/dubstep-problem.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1077,6 +1277,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/music/the-composer-bartender.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/music/drums-off-cliff.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1122,6 +1327,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/music/reggae-percussion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/music/country-song-backwards.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1246,12 +1456,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/bad-for-teeth.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/the-fallen-parrot.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/blue-cow.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/deaf-crows.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1281,7 +1501,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/rhino-in-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/me-neither.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/green-to-red.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1297,6 +1527,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/pun-plus-pun.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/unfortunate-kid.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/confused-lightbulb.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1326,12 +1566,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/walking-into-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/dinner-preference.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/the-yawner.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/one-armed-rower.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/flying-south.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/bar-injury.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1347,6 +1607,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/pirate-movie-rating.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/dropped-ice-cream.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1386,6 +1651,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/dangerous-furniture.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/bar-walk.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/talking-rocks.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1411,6 +1686,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/smokeys-middle-name.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/walks-into-a-bar.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1422,6 +1702,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/mexican-octopus.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/two-guys-walk-into-a-bar.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1451,6 +1736,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/fired-mailman.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/the-whale-walks-into-a-bar.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1462,6 +1752,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/mole-and-eagle.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/10-inches-and-white.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1481,12 +1776,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/challenging-the-law.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/jimmys-candy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/tripping-centipede.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/chicken-vs-truck.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1526,7 +1831,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/big-green-killer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/limbo-champion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/waiting-for-fedex.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/the-germans-wish.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1552,6 +1872,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/anti-jokes/red-rubber-balls.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/postman-pats-name.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-jokes/the-chicken-visits.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1676,6 +2006,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/political/congress-vs-progress.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/political/reagans-success.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1751,6 +2086,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/political/romneys-truck.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/political/bushs-road-question-avoidance.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -1767,6 +2107,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/political/soldiers-and-political-insults.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/political/movie-backing.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -1852,6 +2197,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/political/allowed-to-be-unsatisfied.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/political/cant-complain.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2001,6 +2351,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/gaming/shang-tsung-at-dinner.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/gaming/deja-vu-checkpoint.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2086,6 +2441,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/holiday/hiding-egg.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/holiday/christmas-cracker-jokes.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2131,6 +2491,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/grammar/grammar-bar-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/grammar/passive-voice.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2147,6 +2512,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/grammar/time-walks-into-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/lawyers/dead-dog-vs-lawyer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/lawyers/lawyer-burial.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2187,6 +2562,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/riddles/pronounced-wrong.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/riddles/not-a-door.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2247,6 +2627,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/internet-culture/narwhal-bacon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/internet-culture/reddit-life-lessons.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2421,6 +2806,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/professional/the-engineers-solution.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/parody/pirate-punctuality.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2476,6 +2866,81 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/the-interview.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/corn-flakes-puzzle.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/potatoes-in-the-sack.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/blondes-smart-loan-strategy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/hunting-for-shoes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/blind-cowboys-joke-dilemma.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/escalator-rescue.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/smart-parking-strategy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/big-red-truck.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/ironing-and-the-red-ears.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/blondes-and-fishing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/smart-blonde.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/other-side-of-the-river.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/blonde-and-the-phone-book.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-jokes/pin-and-grenade.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/pirate/the-fearsome-pirate.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2517,6 +2982,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/nationality/canadian-blood-type.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/comparisons/railroad-conductor-vs-teacher.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/comparisons/titanic-vs-star-wars.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2622,6 +3097,61 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/insult/west-virginia-invention.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/starcraft-diet.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/ganondorfs-internet-issues.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/gamer-ducks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/internet-humor-subreddit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/schroedingers-cat-reward.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/potassium-reply.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/words-can-hurt.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/ceiling-geometry.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/gokus-depression.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nerdy/pirate-parity.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/comparative/lawyers-vs-guinea-pigs.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2761,6 +3291,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/earth-and-earthquake.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/german-vegetarians.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2856,6 +3391,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/best-time-of-day.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/rem-indian-food.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2886,6 +3426,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/pork-souvlaki-on-peta.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/yoda-numbers.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -2897,6 +3442,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/loose-leaf-tv.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/dried-grapes.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -2922,6 +3472,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/elephant-down.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/the-pelican-curry.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3011,6 +3566,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/calendar-humor.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/animal-tests.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3057,6 +3617,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/miss-muffets-myth.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/wordplay-ore-bust.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3292,6 +3857,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/late-sasquatch.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/the-magic-tractor.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -3616,6 +4186,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/excellent-reception.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/internet-highways.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3761,6 +4336,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/shaking-dog.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/early-christmas-shopping.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3896,6 +4476,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/stuck-kit-kat.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/conjoined-twins.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -3937,6 +4522,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/cheap-circumcision.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/cookie-monsters-war.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4296,6 +4886,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/energizer-bunny-charge.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/walk-into-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/picasso-minivan.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4312,6 +4912,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/boy-definition.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/back-to-fuchsias.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4407,6 +5012,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/inchworm-itching.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/site-for-sore-eyes.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4691,6 +5301,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/hes-all-right.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/leather-weather-tongue-twister.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4727,6 +5342,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/fake-noodle.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/bicyclists-favorite-letter.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -4901,6 +5521,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/aspergers-burger.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/tap-dancer-accident.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -4986,6 +5611,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/overall-health.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/irish-porch.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5002,6 +5632,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/rastafarian-wordplay.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/nosey-pepper.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5046,6 +5681,21 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/the-lumberjack.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/the-frayed-knot.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/igloo-math.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/liver-and-cheese.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5057,6 +5707,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/catching-a-tame-rabbit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/king-george-and-wheezy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5236,6 +5891,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/william-tells-garbage.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/santas-gift.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5307,6 +5967,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/panda-pun.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/pancake-day.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5506,6 +6171,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/multiple-personalities.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/pun-appreciation.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5547,6 +6217,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/free-fish.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/arrested-teaspoon.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5611,6 +6286,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/cereal-killer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/desert-dessert.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5642,6 +6322,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/fire-station-gig.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/medical-metal-band.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5721,6 +6406,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/swiss-flag.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/archer-and-gift-wrapper-pun.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -5742,6 +6432,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/teachers-in-africa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/fruit-cordial.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/white-rappers.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -5857,6 +6557,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/spies-at-bars.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/the-friendly-wave.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6006,6 +6711,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/allergic-bees.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/plastic-surgeons-office-sign.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6031,6 +6741,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/the-jewish-rabbit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/lightweight-dream.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6046,6 +6761,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/hippie-departure.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/greek-capital.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6057,6 +6777,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/fishing-for-fun.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/no-legs-at-door.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6086,6 +6811,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/sleepwalking-nun.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/nudist-colony-professors.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6102,6 +6832,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/cosmetology-school.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/eating-bullets.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6301,6 +7036,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/fowl-proceeding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/palm-reader-calluses.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6322,6 +7062,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/stalked-plant.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/spanish-names.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6396,6 +7141,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/tiny-evidence.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/ghostly-gas.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6462,6 +7212,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/fitness-strategy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/dinosaur-smell.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6566,6 +7321,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/propaganda-pun.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/the-disco-stop.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6577,6 +7337,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/sea-mammal-tragedy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/percussion-sandwich.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6621,7 +7386,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/the-international-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/pauls-law.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/ilene-and-peggy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -6736,6 +7511,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/konys-drink.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/eskimo-bank-pun.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -6837,6 +7617,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/golfers-trousers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/three-holes.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7136,6 +7921,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/puns/france-is-bacon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/puns/paper-or-plastic.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7172,6 +7962,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/puns/buddhist-diet.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/puns/cheap-concert.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7226,6 +8021,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/situational/bookstore-order.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/situational/simple-directions.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7257,6 +8057,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/intellectual/descartes-dessert.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/intellectual/scientists-vs-philosophers.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7371,6 +8176,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/technology/broken-detector.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/technology/os-x-def-leppard.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7382,6 +8192,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/technology/the-mailbox.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/technology/apple-vs-pc.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7402,6 +8217,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/technology/binary-types.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/technology/the-introvert-phone.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7576,6 +8396,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/technology/twitter-addiction.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/technology/iphone-disappointment.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7606,12 +8431,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/technology/original-dubstep.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/technology/computer-illiteracy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/technology/the-teenage-pirate.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/technology/developer-actor.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7751,6 +8586,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/topical-humor/1998-party-joke-monica-lewinsky.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/quote/mae-west-on-love.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7806,6 +8646,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/celebrity/mj-at-the-bank.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/celebrity/connerys-savings.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -7821,12 +8666,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/celebrity/whitney-houstons-funeral.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/celebrity/paulas-diagnosis.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/celebrity/bonos-sunglasses.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/celebrity/ja-rules-bread.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7842,6 +8697,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/celebrity/paris-hiltons-dog.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/celebrity/david-bowie-swimming.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -7956,7 +8816,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/celebrity/ray-charles-rubiks-cube.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/celebrity/snoop-doggs-ride.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/celebrity/bear-grylls-fired.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/celebrity/opposite-of-christopher-reeve.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8041,7 +8916,32 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/one-liners/politicians-and-men.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/one-liners/fire-hydrant-factory.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/one-liners/bipolar-feelings.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/one-liners/alphabet-trouble.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/one-liners/liposuction.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/one-liners/growing-up-poor.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8162,6 +9062,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/marriage/dog-and-slippers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/marriage/the-cost-of-freedom.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8311,6 +9216,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/marriage/grandmas-sentence.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/marriage/anniversary-suggestion.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -8346,6 +9256,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/marriage/tortured-souls.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/marriage/the-box-under-the-bed.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -8366,7 +9281,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/location/new-jersey-contest.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/location/best-thing-from-lansing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blonde-joke/blonde-and-brunette-taxi-joke.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8416,6 +9341,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/pop-culture/skrillex-love.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/pop-culture/michael-jackson-and-god.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -8456,7 +9386,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/pop-culture/snookis-baby.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/pop-culture/merging-wizard.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/pop-culture/family-circus-anniversary.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8527,6 +9467,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/pop-culture/wrong-face.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/pop-culture/kony-and-mufasa.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -8666,12 +9611,277 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/the-fallen-parrot.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/plum-and-elephant.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/language-barrier.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/retired-postman.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/me-neither.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/smells-like-paint.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/pun-plus-pun.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/pizza-difference.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/what-is-tiring.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/what-makes-me-smile.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/the-yawner.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/flying-south.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/big-yellow-bulldozer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/pirate-movie-rating.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/coming-out.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/sad-horse.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/the-donut-and-the-ring.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/benefits-of-swimming.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/blind-mice-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/airline-food.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/non-rhyming-poem.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/talking-rocks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/apple-growth.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/stoic-numbers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/coffee-preference.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/walks-into-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/mexican-octopus.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/the-third-one-ducks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/prom-night-lines.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/the-pilot.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/the-whale-walks-into-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/gay-dinosaur.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/mole-and-eagle.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/green-wheels.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/v-formation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/tripping-centipede.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/deer-in-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/incomplete-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/man-at-the-bakery.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/unexpected-knock-knock.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/red-and-bad.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/long-story-short.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/falling-objects.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/waiting-for-fedex.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/basketball-skills.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/batmans-command.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/green-with-wheels.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/racist-lightbulb.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anti-humor/the-polite-cab-driver.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/medical-humor/the-tailors-diagnosis.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/husband-wife/face-cream-vs-beer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/husband-wife/honest-wife.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/husband-wife/thick-cut.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/husband-wife/long-distance-chicago.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/irish-jokes/goldfish-epilepsy.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -9971,6 +11181,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/other/dads-profile.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/business/the-final-tax-return.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -9992,6 +11207,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/business/the-good-customer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/business/the-monkey-business.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -10046,7 +11266,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/gross/beethovens-bench.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/gross/the-sick-giant.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/gross/joke-about-a-fart.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -10187,6 +11417,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/science/positive-proton.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/science/a-solution-exists.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -10581,6 +11816,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/family/the-mother-of-eleven-jaydens.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/family/fathers-and-mothers-day-joke.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -10801,6 +12041,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/family/pre-television-entertainment.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/family/breaking-bad-news.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -10917,6 +12162,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/family/in-laws.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/family/bus-etiquette.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11551,6 +12801,31 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/nationalities/polite-canadian.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nationalities/canadian-fight.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nationalities/french-army.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nationalities/french-self-defense.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/nationalities/canadian-blood-type.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/narrative/cold-water-cleaning.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11587,6 +12862,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/narrative/the-lost-bagpiper.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/narrative/the-rabbis-hat.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11641,6 +12921,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/meta/taking-a-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/meta/french-humor-subreddit.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -11682,6 +12967,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/meta/clever-one-liner.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/meta/viral-meme.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -11742,6 +13032,26 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/comedy/skydiving-and-gas-stoves.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/sport/caddys-preference.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/sport/the-irish-figure-skater.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/sport/golfing-with-bad-eyesight.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/sport/bad-golf-game.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -12972,6 +14282,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/observational/toms-observations.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/observational/the-drunks-intuition.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -17036,6 +18351,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/observational/road-construction-cones.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/observational/human-trust-and-skepticism.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -17382,6 +18702,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/observational/backsliders-drinking-benefit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/observational/pretentious-coffee.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18651,6 +19976,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/wordplay/the-agnostic-dyslexic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/wordplay/thesaurus-club.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -18672,6 +20002,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/wordplay/poo-and-tigger.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/wordplay/us-vs-europe.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18806,6 +20141,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/wordplay/royal-service.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/wordplay/soviet-reversal.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -18861,12 +20201,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/wordplay/samurais-sudoku.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/wordplay/insulting-the-illiterate.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/wordplay/too-cultivate.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/wordplay/steamed-dumplings.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18882,6 +20232,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/self-deprecating/rejected-by-science.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/self-deprecating/turning-the-other-chin.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -18971,6 +20326,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/dark-humor/seal-lunch.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/dark-humor/intoxicated-paramedic.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -18982,6 +20342,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/dark-humor/inner-sociopath.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dark-humor/the-tractor.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19166,12 +20531,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/dark-humor/a-tour-of-hell.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/dark-humor/last-man-on-earth.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/dark-humor/jobs-and-iphone.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dark-humor/skydiving-advice.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19212,6 +20587,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/dark-humor/titanic-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dark-humor/anticipation.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19306,6 +20686,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/dark-humor/the-fence-chant.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/dark-humor/the-funeral-procession.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19362,6 +20747,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/dark-humor/deer-hunting-dilemma.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dark-humor/no-windows-helicopter.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19511,6 +20901,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/military/animal-impersonators.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/military/area-51-cessna.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19536,7 +20931,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/military/the-lighthouse-and-the-navy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/military/radar-and-sea-gulls.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/food-drink/watery-beer.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19611,6 +21016,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/math/explaining-pi-day.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/math/math-puns.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19622,6 +21032,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/math/zero-and-eight.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/math/baking-pies.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19691,6 +21106,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/sports/fishing-secret.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/sports/surreal-madrid.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -19747,6 +21167,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/sports/super-bowl-seat-and-funeral.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/sports/skater-lightbulb.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -19822,6 +21247,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/sports/football-priorities.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/sports/hockey-spring.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -20046,6 +21476,46 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/anecdote/the-fisherman-and-the-warden.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anecdote/jose-can-you-see.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anecdote/cadillac-gift.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anecdote/the-porsche-for-500.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anecdote/the-boss-and-the-child.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anecdote/yankee-and-scot-echo.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anecdote/the-blonde-and-the-barber.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/anecdote/misheard-little-mermaid-lyrics.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/politics/progress-vs-congress.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20201,7 +21671,27 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/educational/legal-logical-and-neither.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/hunting/hunting-with-alice.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/hunting/two-moose.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/law-enforcement/speeding-ticket-excuse.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/law-enforcement/the-trooper-chase.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -20347,6 +21837,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/nerd/pirate-parity.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/social/mainstream-hipster.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -20591,6 +22086,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/irony/carcinogenic-ink.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/irony/the-anti-voting-club.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20641,6 +22141,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/long/stumping-satan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/long/the-monks-secret.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/long/beethoven-decomposing.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -20656,12 +22166,207 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/stories/an-unusual-name.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/winter/suntanned-snowman.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/winter/snowman-dance.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/international-womens-day.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/heaven-vs-hell.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/new-yorkers-in-a-cab.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/hipster-lightbulb-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/spotting-a-vegan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/kia-souls.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/brunettes-and-blondes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/blondes-in-a-pool.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/fishing-with-mormons-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/the-magic-circle.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/heaven-and-hell.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/the-expensive-suit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/locating-the-homeland.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/adhd-lightbulb.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/jewish-fathers-money.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/stevie-wonder-in-japan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/tornado-vs-divorce.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/confused-blonde.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/the-magic-mirror.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/irish-party-vs-funeral.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/wisconsin-prom-night.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/impossible-irish-event.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/crossing-the-nile.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/kongs-and-blonde.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/hipster-light-bulb.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/if-adam-and-eve-were-chinese.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/hipster-lightbulb.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/plane-crash-in-cemetery.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/the-lawyers-game.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/the-hipsters-tongue.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/french-self-defense.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/the-million-dollar-question.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/smart-girls-and-cats.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/irish-lawyers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/hipster-pizza.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/vegan-lightbulb.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/west-virginia-toothbrush.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/stereotypes/another-chance.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21047,6 +22752,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/relationship/the-seven-stages-of-a-husbands-cold-response.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationship/family-preferences.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -21536,6 +23246,651 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/outdoors/the-expensive-wipe.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-preacher-and-the-thin-paint.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/ignoring-the-jehovahs-witness.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/god-is-like-ford.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-alphabet-prayer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-salvation-army.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-first-page-of-the-bible.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-tire-iron-hero.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/entertaining-god.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/televangelists-compared.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/holy-water-recipe.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/boy-finds-adams-underwear.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/reincarnation-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/god-and-website-hosting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-lord-is-my-programmer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/one-with-everything.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/feeding-the-flock.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/sermon-sleepyhead.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/father-murphys-heaven-trip.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-hog-caller.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/wise-mens-blunder.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-preachers-blunder.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/ministers-resignation-song.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/divine-golf.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/baptist-church.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/defining-puritanism.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/sunday-school-airplane-picture.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/preachers-dentures.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/religious-what-ifs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/tyson-foods-and-the-pope.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/heavens-irs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/escaping-the-past.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-devils-efficiency.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/allowance-sermon-request.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/allowance-vs-health.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/jesus-vs-santa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/god-is-like-bayer-aspirin.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-nuns-cup.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/cantor-and-the-insurance-money.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/gods-color.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/sleepwalking-sermon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/buddhist-hot-dog.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/brainwashing-the-baby.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/gods-answers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-artist-and-god.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/priest-on-maury.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/no-excuse-sunday.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-good-samaritan-reaction.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/die-heretic-scum.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/god-is-like-tide.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-pastors-teeth.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/christmas-eve-hotel.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/arafat-and-the-psychic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/crisis-in-the-gulf-and-religious-conversion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/ministers-lie-sermon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-refugee-and-the-rent.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/moses-tea.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/alphabet-prayers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/praying-alphabet.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-preachers-secret.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/pope-and-cardinal.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/rabbi-light-bulb.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/jesus-at-a-hotel.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-reluctant-pastor.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/god-creates-canada.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/gods-humor.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/gods-love.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/photons-religion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/priest-rabbi-minister-in-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-organists-anthem.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/rabbi-and-the-irs-donation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-ministers-letter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/noah-and-the-flies.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/look-who-thinks-hes-nothing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/dog-baptism-and-donation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/forgiveness-from-sin.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-pope-and-the-queen.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/young-jesus.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/mohel-perks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-man-and-his-suitcase.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/man-in-heaven-and-hell.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/behind-schedule.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/profiting-from-mistakes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-popes-golf-match.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/talking-to-a-wall.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/new-wives.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/religious-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/prayer-in-schools.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/punch-in-the-aura.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/baptismal-anchor.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/jesus-saves-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/nuns-gift.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-boy-and-the-plus-sign.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/parachuting-mishap.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/lumber-confession.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-temperance-sermon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/preachers-temperance-sermon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/taxi-driver-vs-priest-in-heaven.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/joe-the-priest-and-the-confessional.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/ten-commandments.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/meaning-of-easter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/a-history-lesson.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/prayer-positions.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-preaching-ministers-dentures.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/billys-lost-quarter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-pope-and-presidents-summit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-generous-donor.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/defining-diagnostic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/god-is-like-hallmark.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/god-is-like-coke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-lawyer-rabbi-and-hindu-man.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/conversion-for-a-hundred.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/priest-and-little-johnny.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/church-at-disneyland.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/dying-man-and-the-devil.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-stolen-turkey.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/agnostic-pagan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/religion-and-soap.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-atheist-and-the-shark.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/bingo-loving-mother.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/freedom-offrom-religion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/heavens-tuna.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/heavenly-divorce-delay.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/atheists-and-lightbulbs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/jesus-workout.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/the-early-knocker.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/pope-and-chicken.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/truck-driver-priest-and-lawyer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religion/heavens-exclusion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/parenting/velcro-shoes.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -21767,6 +24122,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/work/the-work-virus.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/work/crazy-accountant.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22241,6 +24601,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/work/mm-factory-mistake.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/work/used-car-ad.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -22437,6 +24802,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/work/numbered-jokes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/work/musician-vs-pizza.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -22677,6 +25047,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/work/investment-experience.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/work/show-him-the-badge.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23071,12 +25446,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/work/working-hard.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/work/bosss-sign-joke.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/work/certificate-count.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/work/musician-delivery.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23142,6 +25527,561 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/work/imaginary-vegetables.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/penguin-town.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/unsteady-cow.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-accountant-test.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/big-nostrils.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/library-sounds.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/fish-jokes-collection.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/changing-lanes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/gorilla-nostrils.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-hornless-horse.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-rabbi-and-the-frog.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/elephant-sound.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/hiding-elephants.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/hungry-bird.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/wasp-in-the-window.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/giraffe-in-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/lizard-shopping.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/catching-a-polar-bear.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/alligator-in-a-vest.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/fish-tank.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/chicken-coop-doors.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/shellfish-crabs.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/turtle-fashion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/one-dog-at-the-zoo.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/tortoise-and-hare.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/zoo-closing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/mosquito-pajamas.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/chicken-sedan.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/grasshopper-named-dave.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/sad-dog-shark.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/invisible-carrots.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-grasshopper-drink.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/put-him-down.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/cat-scream.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/super-vision.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/three-legged-dog.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/roadside-puppies.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/pig-superhero.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/fast-lion.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/rabbits-disguise.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/colorblind-dog-poem.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/healthy-anteaters.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/rabbit-at-the-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/virgin-wool.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/turtle-disaster.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/dog-interview.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/unhappy-animals.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/eats-shoots-and-leaves.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/duck-puns.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/buffalo-farewell.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/no-idea-deer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/elephant-measurements.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/elephant-hygiene.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/exploding-monkey.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/monkeys-in-the-bath.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-parrot-and-the-turkey.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/parrot-from-africa.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-trick-fly.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/hamster-wheel.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/elephants-in-a-fridge.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-mole-family.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-duck-song-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/bee-work-schedule.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/immobile-dog.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/chicken-motives.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/snails-on-a-turtle.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/frog-psychic.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/rolling-penguin.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-snails-revenge.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/dog-poem.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/llama-laughter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/blind-deer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-angry-pig.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-persistent-duck.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/dirty-double-crosser.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/cat-criminal.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/goldfish-in-a-tank.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/warm-fleas.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/bears-eating-clown.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/cows-last-words.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/frog-breath.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/raven-and-buzzard.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/elephant-diarrhea.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-hungry-bat.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/horse-shakespeare.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/significant-otter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/dogs-age.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/beware-of-dog.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/penguins-at-the-movies.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/salt-water-fish.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-sad-crab.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/salty-sharks.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/bears-big-pause.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/fish-in-a-tank.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/monkey-and-the-wreck.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/monkey-in-a-suit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/pile-of-cats.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/udderly-ruined.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/musical-eagle.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/gray-with-trunk.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/favorite-zoo-animal.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/floating-animal.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/polar-bear-pause.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/stable-condition.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/pig-date.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/horse-house.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-turkeys-warning.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/jesus-is-watching.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/seal-in-a-pub.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/yarn-cat.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/the-energized-horse.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/animals/bear-in-billings.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23276,6 +26216,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/medical/i-am-napoleon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/medical/hereditary-conditions.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23322,6 +26267,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/medical/too-many-patches.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/medical/cat-scan-and-lab-tests.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23391,6 +26341,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/medical/synesthesia-meeting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/medical/ados-diagnosis.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23441,7 +26396,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/medical/feeling-run-down.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/medical/hereditary-traits.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/medical/a-second-opinion.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23471,6 +26436,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/medical/pms-naming.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/medical/doctor-ran-out-of-anesthetic.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23492,6 +26462,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/medical/the-doctors-countdown.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/medical/trip-to-the-optician.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/medical/webmd-diagnosis.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -23631,6 +26611,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/food/cheesy-pizza.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/food/queen-bean.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23726,6 +26711,16 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/history/atomic-dessert.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/history/the-finnish-trap.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/history/french-twitter.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -23772,6 +26767,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/history/german-occupation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/history/lincolns-drink.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24252,6 +27252,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/religious/the-good-samaritan-reaction.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religious/god-has-me-covered.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -24746,6 +27751,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/religious/the-monks-discovery.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/religious/god-money-and-the-soul.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -24827,6 +27837,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/religious/the-pope-and-presidents-summit.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/religious/the-nail-campaign.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25076,6 +28091,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/movies/admiral-ackbar-in-the-alps.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/movies/et-abbreviation.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -25091,12 +28111,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/farming/under-the-wagon.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/farming/cow-vs-bike.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/farming/the-big-truck.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/sarcasm/delivering-the-overpass.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -25392,11 +28422,6 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/animal/catching-a-polar-bear.html</loc>
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://www.jokeawhenever.com/animal/alligator-in-a-vest.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26336,6 +29361,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/slapstick/bar-walk.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/slapstick/twenty-blind-men-bar.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -26521,7 +29551,22 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/men-vs-women/the-impossible-wish.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/men-vs-women/the-celebration-toast.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/men-vs-women/five-flies.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/men-vs-women/the-frogs-wishes.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26592,6 +29637,16 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/bar/skeleton-at-the-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/bar/only-twenty-five-cents.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/everyday-life/divine-parking.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26707,6 +29762,96 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/profession/the-lineman.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/making-faces.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/little-johnnys-boots.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/ear-piercing-distance.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/kindergarten-boots.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/goldfish-grave.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/little-boys-baseball-transformation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/robert-and-the-prunes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/tommys-dream.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/empty-stomach.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/snowman-building.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/boy-scout-bottle-collection.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/johnnys-empathy.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/bobby-and-susies-wedding.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/goldfishs-water-refusal.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/bobbys-direct-object.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/kindergarten-police-station.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/the-wedding-math.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/children/greatest-hitterpitcher.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -26986,6 +30131,46 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/night-thoughts.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/ocean-greeting.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/bin-men-training.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/dancing-tissue.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/airplane-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/sticky-wood.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/seagulls-and-bagels.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/dad-jokes/smiths-in-the-phone-book.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/flirty/is-your-name-google.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -27002,6 +30187,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/school/abstract-noun-example.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/school/the-reason-for-college.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27251,6 +30441,351 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/bar-jokes/the-fly-in-the-beer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/bar-jokes/sandwich-in-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/bar-jokes/only-one-dollar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/bar-jokes/string-walks-into-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/bar-jokes/ten-shots.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/bar-jokes/three-beers.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/library-book.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-silent-treatment.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-first-to-believe-her.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/lottery-winner.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/charm-school.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-diary.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/he-always-calls-me-that.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-blind-date-and-the-rolls-royce.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/dead-husbands-perk.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/marriage-length.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/mourning.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/lazy-husbands-shame.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/wifehusband-fight-jokes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-husbands-coma.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/therapists-advice.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/honeymoons-terrible-words.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/expensive-engagement-ring.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/lold-into-security.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-sliding-husband.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-attractive-wife.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/criticizing-cooking.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/father-in-laws-lottery-blessing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/dictionary-definition-of-warm.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/yard-work-motivation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/golfing-mishap.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/atheist-marriage.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/husbands-rebound.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/golf-cheating-friends.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/old-mans-proposal.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/honeymoon-bed.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/nightly-peace.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/wear-her-clothes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/golf-or-wife.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/wedding-ring-and-wrong-man.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/front-lawn-promise.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/cooking-and-time.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/defensive-driving-tip.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/bobs-wife-compliment.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-wifes-priorities.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/same-skirts.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/davids-family-coffee.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/sleeping-right.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/pilot-engaged-to-two-women.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-seven-stages-of-a-husbands-cold-response.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/first-dates-self-centered-conversation.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/woman-in-a-bar.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/love-divorce-and-money.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/bread-and-exes.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/chat-room-surprise.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-philosophy-major.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-gift-of-a-birthday-party.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/widows-revenge.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/wedding-vows.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/husband-10-software-issues.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/reunion-ring.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/lodge-meeting-postponed.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/husbands-response-to-strength-compliment.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/husbands-age-assessment-of-wife.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/the-elevator-operator.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/social-security-sex-life.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/faith-healer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/mixed-emotions.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/relationships/married-but-divorcing.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/dad-joke/math-golf.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -27306,6 +30841,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/engineering/thaw-the-chicken.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/knock-knock/daisy-me-rollin.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -27317,6 +30857,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/knock-knock/kgb-knock-knock.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/knock-knock/grammar-knock-knock.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27441,7 +30986,17 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/absurdist/pirates-favorite-letter.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/absurdist/two-fish-in-a-tank-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/absurdist/favorite-color.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27477,6 +31032,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/absurdist/the-musical-quartet.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/absurdist/the-nightclub-routine.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -27646,6 +31206,11 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/story/four-legged-chicken.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/story/the-worst-sin.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -27811,6 +31376,81 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://www.jokeawhenever.com/insults/australia-vs-yogurt.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/two-monitors.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/zip-code.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/yo-mama-butterbeer.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/ugly-baby-on-the-bus.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/face-pills.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/turn-the-other-chin.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/home-conception.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/drunks-intuition.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/heavy-birth.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/fall-from-heaven.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/fast-acceleration.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/smile-like-a-song.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/yo-mama-daft-punk.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/insults/west-virginia-invention.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://www.jokeawhenever.com/fantasy/the-mirror-and-the-wish.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
@@ -27877,6 +31517,11 @@
   </url>
   <url>
     <loc>https://www.jokeawhenever.com/culture/cajun-zoo-joke.html</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/culture/hipster-kitchen.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
   </url>
@@ -28004,5 +31649,255 @@
     <loc>https://www.jokeawhenever.com/police/waiting-all-day.html</loc>
     <changefreq>monthly</changefreq>
     <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/humor-defense-mechanism-freud/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/observational-comedy-seinfeld-method/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/humor-ancient-greece-aristophanes/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/setup-punchline-basics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/comedy-writing-exercises/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/vaudeville-birth-modern-standup/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/comedy-delivery-tips/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/surreal-humor-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/rule-of-three-comedy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/why-we-laugh-evolutionary-purpose/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/social-media-comedy-strategy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/slapstick-comedy-history/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/dealing-with-bombing-comedy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/relief-theory-laughter/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/irony-vs-sarcasm-difference/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/first-open-mic-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/incongruity-theory-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/dad-joke-history-psychology/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/social-bonding-theory-laughter/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/no-sense-of-humor-gelotophobia/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/hecklers-crowd-work-comedy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/comedic-timing-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/oldest-joke-history-sumerian/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/double-entendre-history/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/brick-joke-callback-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/neuroscience-of-a-joke/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/sketch-comedy-writing-basics/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/role-court-jester-history/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/dark-humor-psychology/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/shakespeare-influence-wordplay/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/british-invasion-comedy-python-office/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/pun-lowest-highest-wit/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/seven-dirty-words-obscenity-history/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/internet-humor-timeline-tiktok/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/improv-comedy-yes-and/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/finding-your-comedic-voice/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/future-of-comedy-ai-vr/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/history-of-roast-comedy/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/benign-violation-theory/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/evolution-of-sitcom-history/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/laughter-yoga-therapeutic-humor/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/how-to-write-a-joke-guide/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/podcasting-comedy-tips/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/deadpan-comedy-technique/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/physical-effects-of-laughter/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/rise-late-night-tv-hosts/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/cringe-comedy-psychology/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/anti-humor-explained/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/self-deprecation-humor-power/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.jokeawhenever.com/blog/history-of-satire-rome-onion/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.9</priority>
   </url>
 </urlset>
