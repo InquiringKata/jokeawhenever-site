@@ -43,9 +43,6 @@ work humor. Perfect for any occasion.">
 
     <!-- AdSense -->
     
-    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-2716748913543452"
-        crossorigin="anonymous"></script>
-    
 
     <!-- Structured Data -->
     
@@ -103,47 +100,54 @@ work humor. Perfect for any occasion.">
     <!-- Main Content -->
     <main id="main-content" class="site-main">
         
-<!-- Hero Section -->
-<section class="hero">
+<!-- Hero Section with Split Layout -->
+<section class="hero" style="padding: 4rem 0;">
     <div class="container">
-        <span class="hero-badge">✨ 6126+ Jokes</span>
-        <h1 class="hero-title">
-            <span class="hero-title-emoji">😂</span>
-            Your Daily Dose of Laughter
-        </h1>
-        <p class="hero-subtitle">
-            Discover thousands of clean, family-friendly jokes. Perfect for icebreakers,
-            brightening someone's day, or just a good laugh!
-        </p>
+        <div style="display: grid; grid-template-columns: 1fr; gap: 3rem; align-items: center;" class="hero-split">
+            <!-- Left Side: Joke CTA -->
+            <div>
+                <span class="hero-badge">✨ 6126+ Jokes</span>
+                <h1 class="hero-title" style="font-size: 3rem; line-height: 1.2; margin-bottom: 1.5rem;">
+                    <span class="hero-title-emoji">😂</span><br>
+                    Your Daily Dose of Laughter
+                </h1>
+                <p class="hero-subtitle" style="font-size: 1.2rem; margin-bottom: 2rem;">
+                    Discover thousands of clean, family-friendly jokes. Perfect for icebreakers,
+                    brightening someone's day, or just a good laugh!
+                </p>
 
-        <div class="hero-cta">
-            <a href="/random/" class="btn btn-primary">🎲 Get a Random Joke</a>
-            <a href="#categories" class="btn btn-secondary">Browse Categories</a>
-        </div>
+                <div class="hero-cta" style="margin-bottom: 2rem;">
+                    <a href="/random/" class="btn btn-primary">🎲 Get a Random Joke</a>
+                    <a href="#categories" class="btn btn-secondary">Browse Categories</a>
+                </div>
 
-        <div class="stats">
-            <div class="stat">
-                <div class="stat-number">6126+</div>
-                <div class="stat-label">Jokes</div>
+                <div class="stats">
+                    <div class="stat">
+                        <div class="stat-number">6126+</div>
+                        <div class="stat-label">Jokes</div>
+                    </div>
+                    <div class="stat">
+                        <div class="stat-number">203</div>
+                        <div class="stat-label">Categories</div>
+                    </div>
+                </div>
             </div>
-            <div class="stat">
-                <div class="stat-number">203</div>
-                <div class="stat-label">Categories</div>
-            </div>
-            <div class="stat">
-                <div class="stat-number">100%</div>
-                <div class="stat-label">Free</div>
-            </div>
+
+            <!-- Right Side: Featured Article -->
+            
         </div>
     </div>
 </section>
 
+<!-- Latest Blog Posts -->
+
+
 <!-- Featured Joke -->
 
-<section class="featured-section">
+<section class="featured-section" style="padding: 4rem 0;">
     <div class="container">
         <div class="featured-joke">
-            <span class="featured-label">⭐ Featured Joke</span>
+            <span class="featured-label">⭐ Featured Joke of the Day</span>
             <h2>👨‍👩‍👧 The Last Baby</h2>
             <p class="featured-setup">A New Mom took her baby daughter to the supermarket for the first time.
 
@@ -163,7 +167,7 @@ The child was crying and beggin...</p>
 
 
 <!-- Categories Grid -->
-<section class="categories-section" id="categories">
+<section class="categories-section" id="categories" style="padding: 4rem 0; background-color: var(--bg-color-alt);">
     <div class="container">
         <div class="section-header">
             <h2 class="section-title">Browse by Category</h2>
@@ -248,8 +252,7 @@ The child was crying and beggin...</p>
 
         
         <div class="view-all-categories">
-            <a href="/categories/" class="btn btn-secondary">View All 203
-                Categories</a>
+            <a href="/categories/" class="btn btn-secondary">View All 203 Categories</a>
         </div>
         
     </div>
@@ -257,72 +260,85 @@ The child was crying and beggin...</p>
 
 <!-- Trending Jokes -->
 
-<section class="trending-section">
+<section class="trending-section" style="padding: 4rem 0;">
     <div class="container">
         <div class="section-header">
             <h2 class="section-title">🔥 Popular Jokes</h2>
-            <p class="section-subtitle">The funniest jokes people are reading</p>
+            <p class="section-subtitle">The funniest jokes people are reading right now</p>
         </div>
 
         <div class="jokes-row">
             
-            <a href="/political/knowing-the-candidates.html" class="joke-card">
-                <div class="joke-card-header">
-                    <span class="joke-card-emoji">🏛️</span>
-                    <span class="joke-card-category">Political</span>
-                </div>
-                <h3 class="joke-card-title">Knowing the Candidates</h3>
-                <p class="joke-card-preview">Two men were stopped by a TV newswoman doing street interviews about the upcomin...</p>
-                <span class="joke-card-cta">Read joke →</span>
-            </a>
-            
-            <a href="/regional/newfoundland-comedian.html" class="joke-card">
-                <div class="joke-card-header">
-                    <span class="joke-card-emoji">😂</span>
-                    <span class="joke-card-category">Regional</span>
-                </div>
-                <h3 class="joke-card-title">Newfoundland Comedian</h3>
-                <p class="joke-card-preview">I used to be a comedian back in Newfoundland...</p>
-                <span class="joke-card-cta">Read joke →</span>
-            </a>
-            
-            <a href="/observational/silence-and-showers.html" class="joke-card">
+            <a href="/observational/loves-enduring-friendship.html" class="joke-card">
                 <div class="joke-card-header">
                     <span class="joke-card-emoji">😂</span>
                     <span class="joke-card-category">Observational</span>
                 </div>
-                <h3 class="joke-card-title">Silence and Showers</h3>
-                <p class="joke-card-preview">This silence is far from golden...</p>
+                <h3 class="joke-card-title">Love&#39;s Enduring Friendship</h3>
+                <p class="joke-card-preview">&#34;Love is like a little old woman and a little old man who are still friends even...</p>
                 <span class="joke-card-cta">Read joke →</span>
             </a>
             
-            <a href="/science/higgs-boson-pilgrim.html" class="joke-card">
+            <a href="/religious/bible-belief.html" class="joke-card">
                 <div class="joke-card-header">
-                    <span class="joke-card-emoji">🔬</span>
-                    <span class="joke-card-category">Science</span>
+                    <span class="joke-card-emoji">⛪</span>
+                    <span class="joke-card-category">Religious</span>
                 </div>
-                <h3 class="joke-card-title">Higgs Boson Pilgrim</h3>
-                <p class="joke-card-preview">So a Higgs boson boards the Mayflower...</p>
+                <h3 class="joke-card-title">Bible Belief</h3>
+                <p class="joke-card-preview">Do I believe in the Bible? Hell, man, I&#39;ve seen one!</p>
+                <span class="joke-card-cta">Read joke →</span>
+            </a>
+            
+            <a href="/observational/husband-wife-and-the-cat.html" class="joke-card">
+                <div class="joke-card-header">
+                    <span class="joke-card-emoji">😂</span>
+                    <span class="joke-card-category">Observational</span>
+                </div>
+                <h3 class="joke-card-title">Husband, Wife, and the Cat</h3>
+                <p class="joke-card-preview">A couple was going out for the evening. They&#39;d gotten ready - all dolled
+up, cat...</p>
+                <span class="joke-card-cta">Read joke →</span>
+            </a>
+            
+            <a href="/observational/if-men-had-babies.html" class="joke-card">
+                <div class="joke-card-header">
+                    <span class="joke-card-emoji">😂</span>
+                    <span class="joke-card-category">Observational</span>
+                </div>
+                <h3 class="joke-card-title">If Men Had Babies</h3>
+                <p class="joke-card-preview">1. Maternity leave would last two years...with full pay!
+
+2. There&#39;d be a cure f...</p>
                 <span class="joke-card-cta">Read joke →</span>
             </a>
             
         </div>
     </div>
 </section>
-
-
-<!-- Latest Blog Posts -->
 
 
 <!-- Quick Action Bar -->
-<section class="quick-bar">
+<section class="quick-bar"
+    style="padding: 3rem 0; background: var(--bg-card); border-top: 1px solid var(--border-color);">
     <div class="container">
-        <div class="quick-bar-inner">
-            <span class="quick-bar-text">Ready for a laugh?</span>
-            <a href="/random/" class="quick-bar-btn">🎲 Get a Random Joke</a>
+        <div class="quick-bar-inner" style="display: flex; justify-content: center; align-items: center; gap: 2rem;">
+            <span class="quick-bar-text" style="font-size: 1.2rem; font-weight: 600;">Ready for a laugh?</span>
+            <a href="/random/" class="btn btn-primary">🎲 Get a Random Joke</a>
         </div>
     </div>
 </section>
+
+<style>
+    @media (min-width: 900px) {
+        .hero-split {
+            grid-template-columns: 1fr 1fr !important;
+        }
+    }
+
+    .blog-card:hover {
+        transform: translateY(-4px);
+    }
+</style>
 
     </main>
 
