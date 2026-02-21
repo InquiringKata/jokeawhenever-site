@@ -101,34 +101,45 @@ work humor. Perfect for any occasion.">
     <main id="main-content" class="site-main">
         
 <!-- Hero Section with Split Layout -->
-<section class="hero" style="padding: 4rem 0;">
+<section class="hero"
+    style="padding: 5rem 0; background-color: var(--bg-color-alt); border-bottom: 1px solid var(--border-color);">
     <div class="container">
-        <div style="display: grid; grid-template-columns: 1fr; gap: 3rem; align-items: center;" class="hero-split">
+        <div style="display: grid; grid-template-columns: 1fr; gap: 4rem; align-items: center;" class="hero-split">
             <!-- Left Side: Joke CTA -->
-            <div>
-                <span class="hero-badge">✨ 6126+ Jokes</span>
-                <h1 class="hero-title" style="font-size: 3rem; line-height: 1.2; margin-bottom: 1.5rem;">
-                    <span class="hero-title-emoji">😂</span><br>
-                    Your Daily Dose of Laughter
+            <div style="padding-right: 2rem;">
+                <span class="hero-badge"
+                    style="background: var(--primary-color); color: white; padding: 0.4rem 1rem; border-radius: 20px; font-size: 0.9rem; font-weight: 600; display: inline-block; margin-bottom: 1.5rem; letter-spacing: 0.5px;">✨
+                    6126+ Jokes Inside</span>
+                <h1 class="hero-title"
+                    style="font-size: 3.5rem; line-height: 1.1; margin-bottom: 1.5rem; font-weight: 800; color: var(--text-color);">
+                    Your Daily Dose <br><span style="color: var(--primary-color);">of Laughter</span> 😂
                 </h1>
-                <p class="hero-subtitle" style="font-size: 1.2rem; margin-bottom: 2rem;">
+                <p class="hero-subtitle"
+                    style="font-size: 1.25rem; margin-bottom: 2.5rem; color: var(--text-color-muted); line-height: 1.6; max-width: 90%;">
                     Discover thousands of clean, family-friendly jokes. Perfect for icebreakers,
-                    brightening someone's day, or just a good laugh!
+                    brightening someone's day, or just having a good laugh yourself!
                 </p>
 
-                <div class="hero-cta" style="margin-bottom: 2rem;">
-                    <a href="/random/" class="btn btn-primary">🎲 Get a Random Joke</a>
-                    <a href="#categories" class="btn btn-secondary">Browse Categories</a>
+                <div class="hero-cta" style="margin-bottom: 2.5rem; display: flex; gap: 1rem; flex-wrap: wrap;">
+                    <a href="/random/" class="btn btn-primary"
+                        style="padding: 0.8rem 1.5rem; font-size: 1.1rem; border-radius: 8px; box-shadow: 0 4px 15px rgba(0,0,0,0.1);">🎲
+                        Get a Random Joke</a>
+                    <a href="#categories" class="btn btn-secondary"
+                        style="padding: 0.8rem 1.5rem; font-size: 1.1rem; border-radius: 8px;">Browse Categories</a>
                 </div>
 
-                <div class="stats">
+                <div class="stats" style="display: flex; gap: 2.5rem;">
                     <div class="stat">
-                        <div class="stat-number">6126+</div>
-                        <div class="stat-label">Jokes</div>
+                        <div class="stat-number" style="font-size: 2rem; font-weight: 800; color: var(--text-color);">6126+</div>
+                        <div class="stat-label"
+                            style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text-color-muted);">
+                            Clean Jokes</div>
                     </div>
                     <div class="stat">
-                        <div class="stat-number">203</div>
-                        <div class="stat-label">Categories</div>
+                        <div class="stat-number" style="font-size: 2rem; font-weight: 800; color: var(--text-color);">203</div>
+                        <div class="stat-label"
+                            style="font-size: 0.9rem; text-transform: uppercase; letter-spacing: 1px; color: var(--text-color-muted);">
+                            Topics</div>
                     </div>
                 </div>
             </div>
@@ -136,20 +147,25 @@ work humor. Perfect for any occasion.">
             <!-- Right Side: Featured Article -->
             
             <div class="hero-featured-article"
-                style="background: var(--bg-card); border-radius: 12px; padding: 2rem; border: 1px solid var(--border-color); box-shadow: 0 10px 30px rgba(0,0,0,0.05);">
+                style="background: var(--bg-card); border-radius: 16px; padding: 2.5rem; border: 1px solid var(--border-color); box-shadow: 0 20px 40px rgba(0,0,0,0.08); position: relative; overflow: hidden;">
+                <div
+                    style="position: absolute; top: 0; left: 0; width: 100%; height: 6px; background: linear-gradient(90deg, var(--primary-color), var(--secondary-color));">
+                </div>
                 <span
-                    style="display: inline-block; padding: 0.3rem 0.8rem; background: var(--primary-color); color: white; border-radius: 20px; font-size: 0.8rem; font-weight: 600; margin-bottom: 1rem;">Featured
+                    style="display: inline-block; padding: 0.4rem 1rem; background: rgba(var(--primary-color-rgb), 0.1); color: var(--primary-color); border-radius: 20px; font-size: 0.85rem; font-weight: 700; margin-bottom: 1.5rem; text-transform: uppercase; letter-spacing: 1px;">Featured
                     Article</span>
-                <h2 style="font-size: 1.8rem; line-height: 1.3; margin-bottom: 1rem;">
+                <h2 style="font-size: 2rem; line-height: 1.3; margin-bottom: 1rem; font-weight: 800;">
                     <a href="/blog/how-translators-tackle-jokes-the-unsung-heroes-of-international-comedy/"
-                        style="color: inherit; text-decoration: none;">How Translators Tackle Jokes: The Unsung Heroes of International Comedy</a>
+                        style="color: var(--text-color); text-decoration: none; transition: color 0.2s;">How Translators Tackle Jokes: The Unsung Heroes of International Comedy</a>
                 </h2>
-                <p style="color: var(--text-color-muted); line-height: 1.6; margin-bottom: 1.5rem;">A deep dive into how translators tackle jokes: the unsung heroes of international comedy....</p>
-                <div style="display: flex; justify-content: space-between; align-items: center;">
-                    <span style="font-size: 0.9rem; color: var(--text-color-muted);">2026-04-12</span>
+                <p style="color: var(--text-color-muted); line-height: 1.7; margin-bottom: 2rem; font-size: 1.05rem;">A deep dive into how translators tackle jokes: the unsung heroes of international comedy....</p>
+                <div
+                    style="display: flex; justify-content: space-between; align-items: center; border-top: 1px solid var(--border-color); padding-top: 1.5rem;">
+                    <span style="font-size: 0.95rem; color: var(--text-color-muted); font-weight: 500;">2026-04-12</span>
                     <a href="/blog/how-translators-tackle-jokes-the-unsung-heroes-of-international-comedy/"
-                        style="color: var(--primary-color); font-weight: 600; text-decoration: none;">Read full article
-                        &rarr;</a>
+                        style="color: var(--primary-color); font-weight: 700; text-decoration: none; font-size: 1.05rem; display: flex; align-items: center; gap: 0.5rem;">Read
+                        full article
+                        <span style="font-size: 1.2rem;">&rarr;</span></a>
                 </div>
             </div>
             
@@ -159,52 +175,93 @@ work humor. Perfect for any occasion.">
 
 <!-- Latest Blog Posts -->
 
-<section class="blog-section" style="padding: 4rem 0; background-color: var(--bg-color-alt);">
+<section class="blog-section" style="padding: 5rem 0; background-color: var(--bg-color);">
     <div class="container">
-        <div class="section-header">
-            <h2 class="section-title">✍️ Humor Guides & Analysis</h2>
-            <p class="section-subtitle">Read about the history and science of what makes us laugh</p>
+        <div class="section-header" style="text-align: center; margin-bottom: 3rem;">
+            <p class="section-subtitle"
+                style="color: var(--primary-color); font-weight: 700; text-transform: uppercase; letter-spacing: 1px; margin-bottom: 0.5rem;">
+                Insights & Analysis</p>
+            <h2 class="section-title" style="font-size: 2.5rem; font-weight: 800; margin-bottom: 1rem;">Humor Guides
+            </h2>
+            <p style="font-size: 1.1rem; color: var(--text-color-muted); max-width: 600px; margin: 0 auto;">Read about
+                the history, psychology, and science of what makes us laugh.</p>
         </div>
 
         <div class="blog-grid"
-            style="display: grid; grid-template-columns: repeat(auto-fill, minmax(300px, 1fr)); gap: 2rem; margin-bottom: 2rem;">
+            style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 2rem; margin-bottom: 3rem;">
             
             <article class="blog-card"
-                style="background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 1.5rem; transition: transform 0.2s;">
+                style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 12px; padding: 2rem; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.02); display: flex; flex-direction: column;">
                 <div class="blog-meta"
-                    style="font-size: 0.8rem; color: var(--text-color-muted); margin-bottom: 0.5rem; display: flex; gap: 0.5rem;">
+                    style="font-size: 0.85rem; color: var(--primary-color); font-weight: 600; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.5px;">
                     <span>2026-04-11</span>
                 </div>
-                <a href="/blog/the-resurgence-of-clean-comedy-in-a-profane-world/"
-                    style="text-decoration: none; color: inherit;">
-                    <h3 class="blog-title"
-                        style="font-size: 1.2rem; margin: 0.5rem 0; line-height: 1.4; font-weight: 700;">The Resurgence of Clean Comedy in a Profane World</h3>
-                </a>
+                <h3 class="blog-title"
+                    style="font-size: 1.4rem; margin: 0 0 1rem 0; line-height: 1.4; font-weight: 700;">
+                    <a href="/blog/the-resurgence-of-clean-comedy-in-a-profane-world/"
+                        style="text-decoration: none; color: var(--text-color); transition: color 0.2s;">The Resurgence of Clean Comedy in a Profane World</a>
+                </h3>
                 <p class="blog-excerpt"
-                    style="color: var(--text-color-muted); font-size: 0.95rem; margin-bottom: 1rem; line-height: 1.6;">
+                    style="color: var(--text-color-muted); font-size: 1rem; margin-bottom: 1.5rem; line-height: 1.6; flex-grow: 1;">
                     A deep dive into the resurgence of clean comedy in a profane world....</p>
+                <div style="margin-top: auto;">
+                    <a href="/blog/the-resurgence-of-clean-comedy-in-a-profane-world/"
+                        style="color: var(--primary-color); font-weight: 600; text-decoration: none; font-size: 0.95rem; display: flex; align-items: center; gap: 0.4rem;">
+                        Read Article <span>&rarr;</span>
+                    </a>
+                </div>
             </article>
             
             <article class="blog-card"
-                style="background: var(--card-bg); border: 1px solid var(--border-color); border-radius: 12px; padding: 1.5rem; transition: transform 0.2s;">
+                style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 12px; padding: 2rem; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.02); display: flex; flex-direction: column;">
                 <div class="blog-meta"
-                    style="font-size: 0.8rem; color: var(--text-color-muted); margin-bottom: 0.5rem; display: flex; gap: 0.5rem;">
+                    style="font-size: 0.85rem; color: var(--primary-color); font-weight: 600; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.5px;">
                     <span>2026-04-10</span>
                 </div>
-                <a href="/blog/navigating-cancel-culture-in-contemporary-comedy/"
-                    style="text-decoration: none; color: inherit;">
-                    <h3 class="blog-title"
-                        style="font-size: 1.2rem; margin: 0.5rem 0; line-height: 1.4; font-weight: 700;">Navigating Cancel Culture in Contemporary Comedy</h3>
-                </a>
+                <h3 class="blog-title"
+                    style="font-size: 1.4rem; margin: 0 0 1rem 0; line-height: 1.4; font-weight: 700;">
+                    <a href="/blog/navigating-cancel-culture-in-contemporary-comedy/"
+                        style="text-decoration: none; color: var(--text-color); transition: color 0.2s;">Navigating Cancel Culture in Contemporary Comedy</a>
+                </h3>
                 <p class="blog-excerpt"
-                    style="color: var(--text-color-muted); font-size: 0.95rem; margin-bottom: 1rem; line-height: 1.6;">
+                    style="color: var(--text-color-muted); font-size: 1rem; margin-bottom: 1.5rem; line-height: 1.6; flex-grow: 1;">
                     A deep dive into navigating cancel culture in contemporary comedy....</p>
+                <div style="margin-top: auto;">
+                    <a href="/blog/navigating-cancel-culture-in-contemporary-comedy/"
+                        style="color: var(--primary-color); font-weight: 600; text-decoration: none; font-size: 0.95rem; display: flex; align-items: center; gap: 0.4rem;">
+                        Read Article <span>&rarr;</span>
+                    </a>
+                </div>
+            </article>
+            
+            <article class="blog-card"
+                style="background: var(--bg-card); border: 1px solid var(--border-color); border-radius: 12px; padding: 2rem; transition: all 0.3s ease; box-shadow: 0 4px 15px rgba(0,0,0,0.02); display: flex; flex-direction: column;">
+                <div class="blog-meta"
+                    style="font-size: 0.85rem; color: var(--primary-color); font-weight: 600; margin-bottom: 1rem; text-transform: uppercase; letter-spacing: 0.5px;">
+                    <span>2026-04-09</span>
+                </div>
+                <h3 class="blog-title"
+                    style="font-size: 1.4rem; margin: 0 0 1rem 0; line-height: 1.4; font-weight: 700;">
+                    <a href="/blog/female-pioneers-who-broke-the-stand-up-glass-ceiling/"
+                        style="text-decoration: none; color: var(--text-color); transition: color 0.2s;">Female Pioneers Who Broke the Stand-Up Glass Ceiling</a>
+                </h3>
+                <p class="blog-excerpt"
+                    style="color: var(--text-color-muted); font-size: 1rem; margin-bottom: 1.5rem; line-height: 1.6; flex-grow: 1;">
+                    A deep dive into female pioneers who broke the stand-up glass ceiling....</p>
+                <div style="margin-top: auto;">
+                    <a href="/blog/female-pioneers-who-broke-the-stand-up-glass-ceiling/"
+                        style="color: var(--primary-color); font-weight: 600; text-decoration: none; font-size: 0.95rem; display: flex; align-items: center; gap: 0.4rem;">
+                        Read Article <span>&rarr;</span>
+                    </a>
+                </div>
             </article>
             
         </div>
 
-        <div style="text-align: center; margin-top: 2rem;">
-            <a href="/blog/" class="btn btn-secondary">Discover All Articles</a>
+        <div style="text-align: center;">
+            <a href="/blog/" class="btn btn-secondary"
+                style="padding: 0.8rem 2rem; font-size: 1.1rem; border-radius: 8px;">View All 0
+                Articles</a>
         </div>
     </div>
 </section>
@@ -212,12 +269,15 @@ work humor. Perfect for any occasion.">
 
 <!-- Featured Joke -->
 
-<section class="featured-section" style="padding: 4rem 0;">
+<section class="featured-section"
+    style="padding: 5rem 0; background-color: var(--bg-color-alt); border-top: 1px solid var(--border-color); border-bottom: 1px solid var(--border-color);">
     <div class="container">
-        <div class="featured-joke">
-            <span class="featured-label">⭐ Featured Joke of the Day</span>
-            <h2>👨‍👩‍👧 The Last Baby</h2>
-            <p class="featured-setup">A New Mom took her baby daughter to the supermarket for the first time.
+        <div class="featured-joke" style="max-width: 800px; margin: 0 auto;">
+            <span class="featured-label"
+                style="background: rgba(var(--primary-color-rgb), 0.1); color: var(--primary-color); border: none;">⭐
+                Featured Joke of the Day</span>
+            <h2 style="font-size: 2rem; font-weight: 800;">👨‍👩‍👧 The Last Baby</h2>
+            <p class="featured-setup" style="font-size: 1.15rem; line-height: 1.6; color: var(--text-color);">A New Mom took her baby daughter to the supermarket for the first time.
 
 She dressed her in pink from head to toe. At the store, she placed her in the shopping cart and put her purchases around her.
 
@@ -226,8 +286,9 @@ At the checkout line a small boy and his mother were ahead of them.
 The child was crying and beggin...</p>
             
             <div class="featured-actions">
-                <a href="/family/the-last-baby.html" class="btn btn-primary">Read Full Joke →</a>
-                <a href="/random/" class="btn btn-secondary">🎲 Another One!</a>
+                <a href="/family/the-last-baby.html" class="btn btn-primary" style="border-radius: 8px;">Read Full
+                    Joke →</a>
+                <a href="/random/" class="btn btn-secondary" style="border-radius: 8px;">🎲 Another One!</a>
             </div>
         </div>
     </div>
@@ -235,7 +296,7 @@ The child was crying and beggin...</p>
 
 
 <!-- Categories Grid -->
-<section class="categories-section" id="categories" style="padding: 4rem 0; background-color: var(--bg-color-alt);">
+<section class="categories-section" id="categories" style="padding: 5rem 0; background-color: var(--bg-color);">
     <div class="container">
         <div class="section-header">
             <h2 class="section-title">Browse by Category</h2>
@@ -328,52 +389,47 @@ The child was crying and beggin...</p>
 
 <!-- Trending Jokes -->
 
-<section class="trending-section" style="padding: 4rem 0;">
+<section class="trending-section"
+    style="padding: 5rem 0; background-color: var(--bg-color-alt); border-top: 1px solid var(--border-color);">
     <div class="container">
         <div class="section-header">
             <h2 class="section-title">🔥 Popular Jokes</h2>
             <p class="section-subtitle">The funniest jokes people are reading right now</p>
         </div>
 
-        <div class="jokes-row">
+        <div class="jokes-row"
+            style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem;">
             
-            <a href="/story/three-inmates-solitary-confinement-outcomes.html" class="joke-card">
+            <a href="/religion/the-lord-is-my-programmer.html" class="joke-card">
                 <div class="joke-card-header">
-                    <span class="joke-card-emoji">😂</span>
-                    <span class="joke-card-category">Story</span>
+                    <span class="joke-card-emoji">⛪</span>
+                    <span class="joke-card-category">Religion</span>
                 </div>
-                <h3 class="joke-card-title">Three Inmates&#39; Solitary Confinement Outcomes</h3>
-                <p class="joke-card-preview">Three guys are convicted of a very serious crime, and they&#39;re all sentenced to t...</p>
+                <h3 class="joke-card-title">The Lord is My Programmer</h3>
+                <p class="joke-card-preview">The Lord is my programmer, I shall not crash.
+
+He installed His software on the ...</p>
                 <span class="joke-card-cta">Read joke →</span>
             </a>
             
-            <a href="/puns/mexican-and-igloo.html" class="joke-card">
+            <a href="/puns/pineapple-and-coconut.html" class="joke-card">
                 <div class="joke-card-header">
                     <span class="joke-card-emoji">🎯</span>
                     <span class="joke-card-category">Puns</span>
                 </div>
-                <h3 class="joke-card-title">Mexican and Igloo</h3>
-                <p class="joke-card-preview">What did the Mexican say to the igloo?</p>
+                <h3 class="joke-card-title">Pineapple and Coconut</h3>
+                <p class="joke-card-preview">What did the pineapple say to the coconut?</p>
                 <span class="joke-card-cta">Read joke →</span>
             </a>
             
-            <a href="/dark-humor/faithful-husband.html" class="joke-card">
-                <div class="joke-card-header">
-                    <span class="joke-card-emoji">🖤</span>
-                    <span class="joke-card-category">Dark Humor</span>
-                </div>
-                <h3 class="joke-card-title">Faithful Husband</h3>
-                <p class="joke-card-preview">What do you call a woman who knows where her husband is every night?</p>
-                <span class="joke-card-cta">Read joke →</span>
-            </a>
-            
-            <a href="/puns/butter-or-worse.html" class="joke-card">
+            <a href="/puns/taxi-cab-detective.html" class="joke-card">
                 <div class="joke-card-header">
                     <span class="joke-card-emoji">🎯</span>
                     <span class="joke-card-category">Puns</span>
                 </div>
-                <h3 class="joke-card-title">Butter or Worse</h3>
-                <p class="joke-card-preview">Paula Deen is set to release memoirs about life with Type 2 diabetes.</p>
+                <h3 class="joke-card-title">Taxi Cab Detective</h3>
+                <p class="joke-card-preview">A funny story circulated recently about Sir Arthur Conan 
+Doyle, creator of the ...</p>
                 <span class="joke-card-cta">Read joke →</span>
             </a>
             
